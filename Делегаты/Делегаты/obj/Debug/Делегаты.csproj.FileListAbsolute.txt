@@ -12,3 +12,29 @@ C:\Users\danii\OneDrive\Рабочий стол\Все Visual Studio\Делег�
 C:\Users\danii\OneDrive\Рабочий стол\Все Visual Studio\Делегаты\Делегаты\obj\Debug\Делегаты.csproj.CopyComplete
 C:\Users\danii\OneDrive\Рабочий стол\Все Visual Studio\Делегаты\Делегаты\obj\Debug\Делегаты.exe
 C:\Users\danii\OneDrive\Рабочий стол\Все Visual Studio\Делегаты\Делегаты\obj\Debug\Делегаты.pdb
+C:\Users\k36127\Source\Repos\Daniil774\delegate\Делегаты\Делегаты\bin\Debug\Делегаты.exe.config
+C:\Users\k36127\Source\Repos\Daniil774\delegate\Делегаты\Делегаты\bin\Debug\Делегаты.exe
+C:\Users\k36127\Source\Repos\Daniil774\delegate\Делегаты\Делегаты\bin\Debug\Делегаты.pdb
+C:\Users\k36127\Source\Repos\Daniil774\delegate\Делегаты\Делегаты\bin\Debug\ClassLibrary1.dll
+C:\Users\k36127\Source\Repos\Daniil774\delegate\Делегаты\Делегаты\bin\Debug\ClassLibrary1.pdb
+C:\Users\k36127\Source\Repos\Daniil774\delegate\Делегаты\Делегаты\obj\Debug\Делегаты.csproj.AssemblyReference.cache
+C:\Users\k36127\Source\Repos\Daniil774\delegate\Делегаты\Делегаты\obj\Debug\Делегаты.Form1.resources
+C:\Users\k36127\Source\Repos\Daniil774\delegate\Делегаты\Делегаты\obj\Debug\Делегаты.Properties.Resources.resources
+C:\Users\k36127\Source\Repos\Daniil774\delegate\Делегаты\Делегаты\obj\Debug\Делегаты.csproj.GenerateResource.cache
+C:\Users\k36127\Source\Repos\Daniil774\delegate\Делегаты\Делегаты\obj\Debug\Делегаты.csproj.CoreCompileInputs.cache
+C:\Users\k36127\Source\Repos\Daniil774\delegate\Делегаты\Делегаты\obj\Debug\Делегаты.csproj.CopyComplete
+C:\Users\k36127\Source\Repos\Daniil774\delegate\Делегаты\Делегаты\obj\Debug\Делегаты.exe
+C:\Users\k36127\Source\Repos\Daniil774\delegate\Делегаты\Делегаты\obj\Debug\Делегаты.pdb
+P:\3 предмета криворотов\delegate\Делегаты\Делегаты\bin\Debug\Делегаты.exe.config
+P:\3 предмета криворотов\delegate\Делегаты\Делегаты\bin\Debug\Делегаты.exe
+P:\3 предмета криворотов\delegate\Делегаты\Делегаты\bin\Debug\Делегаты.pdb
+P:\3 предмета криворотов\delegate\Делегаты\Делегаты\bin\Debug\ClassLibrary1.dll
+P:\3 предмета криворотов\delegate\Делегаты\Делегаты\bin\Debug\ClassLibrary1.pdb
+P:\3 предмета криворотов\delegate\Делегаты\Делегаты\obj\Debug\Делегаты.csproj.AssemblyReference.cache
+P:\3 предмета криворотов\delegate\Делегаты\Делегаты\obj\Debug\Делегаты.Form1.resources
+P:\3 предмета криворотов\delegate\Делегаты\Делегаты\obj\Debug\Делегаты.Properties.Resources.resources
+P:\3 предмета криворотов\delegate\Делегаты\Делегаты\obj\Debug\Делегаты.csproj.GenerateResource.cache
+P:\3 предмета криворотов\delegate\Делегаты\Делегаты\obj\Debug\Делегаты.csproj.CoreCompileInputs.cache
+P:\3 предмета криворотов\delegate\Делегаты\Делегаты\obj\Debug\Делегаты.csproj.CopyComplete
+P:\3 предмета криворотов\delegate\Делегаты\Делегаты\obj\Debug\Делегаты.exe
+P:\3 предмета криворотов\delegate\Делегаты\Делегаты\obj\Debug\Делегаты.pdb

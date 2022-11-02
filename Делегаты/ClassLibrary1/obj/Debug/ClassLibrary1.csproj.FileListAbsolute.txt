@@ -4,3 +4,15 @@ C:\Users\danii\OneDrive\Рабочий стол\Все Visual Studio\Делег�
 C:\Users\danii\OneDrive\Рабочий стол\Все Visual Studio\Делегаты\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
 C:\Users\danii\OneDrive\Рабочий стол\Все Visual Studio\Делегаты\ClassLibrary1\obj\Debug\ClassLibrary1.dll
 C:\Users\danii\OneDrive\Рабочий стол\Все Visual Studio\Делегаты\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\k36127\Source\Repos\Daniil774\delegate\Делегаты\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\k36127\Source\Repos\Daniil774\delegate\Делегаты\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\k36127\Source\Repos\Daniil774\delegate\Делегаты\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\k36127\Source\Repos\Daniil774\delegate\Делегаты\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\k36127\Source\Repos\Daniil774\delegate\Делегаты\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\k36127\Source\Repos\Daniil774\delegate\Делегаты\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+P:\3 предмета криворотов\delegate\Делегаты\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+P:\3 предмета криворотов\delegate\Делегаты\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+P:\3 предмета криворотов\delegate\Делегаты\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+P:\3 предмета криворотов\delegate\Делегаты\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+P:\3 предмета криворотов\delegate\Делегаты\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+P:\3 предмета криворотов\delegate\Делегаты\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

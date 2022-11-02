@@ -22,7 +22,6 @@ namespace Делегаты
             InitializeComponent();
         }
 
-
         Account ac;
         private void Form1_Load(object sender, EventArgs e)
         {
@@ -39,6 +38,9 @@ namespace Делегаты
             ac = new Account(Convert.ToInt32(textBox2.Text), textBox1.Text);
             listBox1.Items.Clear();
             listBox1.Items.Add($"Владелец счёта: {ac.fio}, состояние счета: {ac.sum}");
+            MessageBox.Show($"Владелец счёта: {ac.fio}, состояние счета: {ac.sum}");
+
+            
         }
 
         private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
@@ -51,21 +53,23 @@ namespace Делегаты
             ac.Add(Convert.ToInt32(textBox3.Text));
             listBox1.Items.Clear();
             listBox1.Items.Add($"Владелец счёта: {ac.fio}, состояние счета: {ac.sum}");
+            MessageBox.Show($"Владелец счёта: {ac.fio}, состояние счета: {ac.sum}");
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            int x = Convert.ToInt32(textBox3.Text);
-            if (ac.sum < x)
+            int x = Convert.ToInt32(textBox4.Text);
+            if (ac.sum <= x)
             {
                 listBox1.Items.Clear();
                 listBox1.Items.Add("На счету недосатточно средств");
             }
             else
             {
-                ac.Take(Convert.ToInt32(textBox3.Text));
+                ac.Take(Convert.ToInt32(textBox4.Text));
                 listBox1.Items.Clear();
                 listBox1.Items.Add($"Владелец счёта: {ac.fio}, состояние счета: {ac.sum}");
+                MessageBox.Show($"Владелец счёта: {ac.fio}, состояние счета: {ac.sum}");
             }
         }
 
